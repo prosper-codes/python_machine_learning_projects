@@ -1,0 +1,22 @@
+metadata:
+  createdAt: 2026-03-30T10:29:14.928Z
+project:
+  id: 616a35bc-14f9-4638-9b36-35dff9d86cf5
+  initNotebookId: 0c7e87ee-49e5-4445-a91b-1ba0b6519fc3
+  integrations: []
+  name: notebook
+  notebooks:
+    - blocks:
+        - id: ecca93a7-58a0-414c-8fcf-58a610cc4802
+          blockGroup: 6c8d9886-6ebc-47ef-a5d8-40dabcfc2559
+          sortingKey: "000000"
+          outputs: []
+          type: code
+          content: ""
+          metadata: {}
+      executionMode: block
+      id: 0c7e87ee-49e5-4445-a91b-1ba0b6519fc3
+      isModule: false
+      name: notebook
+  settings: {}
+version: 1.0.0
